@@ -1,0 +1,29 @@
+html{
+  font-size: 62.5%;
+}
+
+h1{
+  color: #940000;
+  display:flex;
+  justify-content:center;
+  font-size: 2rem;
+}
+
+
+body {
+  background-color: #e0e0e0;
+  color: #272762;
+  font-family: 'Roboto', sans-serif;
+}
+
+section {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  border: 2px solid grey;
+  background-color: #ededed;
+}
+
+footer {
+  font-size: 1rem;
+}
